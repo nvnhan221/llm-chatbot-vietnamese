@@ -1,0 +1,9 @@
+HƯỚNG DẪN SỬ DỤNG EMAIL CÔNG TY
+
+1. Tên email: <ten>@company.vn
+2. Không sử dụng email công ty để đăng ký tài khoản cá nhân.
+3. Mọi thông tin gửi đi cần đảm bảo đúng người nhận.
+4. Không gửi file đính kèm dung lượng lớn (>10MB) nếu không cần thiết.
+5. Báo ngay cho IT nếu phát hiện email đáng ngờ hoặc virus.
+
+Email là tài sản của công ty và được giám sát để đảm bảo an toàn thông tin.

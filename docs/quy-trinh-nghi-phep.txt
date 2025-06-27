@@ -1,0 +1,9 @@
+QUY TRÌNH NGHỈ PHÉP NỘI BỘ
+
+1. Nhân viên gửi yêu cầu nghỉ phép qua hệ thống nội bộ hoặc email cho quản lý trực tiếp.
+2. Quản lý xem xét và phản hồi trong vòng 24h.
+3. Nếu được duyệt, nhân sự ghi nhận và cập nhật vào bảng chấm công.
+4. Nhân viên bàn giao công việc cho người phụ trách tạm thời.
+5. Sau khi kết thúc kỳ nghỉ, nhân viên báo cáo lại tình trạng công việc.
+
+Lưu ý: Mỗi nhân viên có tối đa 12 ngày nghỉ phép/năm.
