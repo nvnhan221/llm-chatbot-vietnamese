@@ -1,2 +1,69 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# Environment variables and secrets
 .env
+*.env
+.env.*
+
+# Logs and debug
+*.log
+*.out
+*.err
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Packaging
+*.egg-info/
+dist/
+build/
+
+# Hugging Face cache
+~/.cache/huggingface/
+.cache/huggingface/
+hub/
+
+# Model weights, checkpoints, vector stores
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.h5
+*.onnx
+*.tflite
+*.npz
+*.npy
+*.mlmodel
 vectorstore/
+index_store/
+
+# Datasets
+*.csv
+*.tsv
+*.jsonl
+*.zip
+*.tar.gz
+datasets/
+
+# IDE
+.idea/
+*.swp
+
+# MacOS
+.DS_Store
